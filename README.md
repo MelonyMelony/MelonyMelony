@@ -20,7 +20,7 @@ I am a 17-year-old developer studying in Norway.
 
 ## About Me
 <div align="center" style="font-size: 1.1em; font-family: Arial, sans-serif; color: #333; background-color: #f7f7f7; padding: 10px; border-radius: 8px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);">
-I’ve played a lot of games, including Minecraft, which I spent a lot of time on, but I’m not playing it much anymore.
+I’ve played a lot of games, including Minecraft, which I spent a lot of time on.
 </div>
 
 ---
