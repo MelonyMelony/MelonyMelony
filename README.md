@@ -8,7 +8,7 @@
 
 ## Introduction
 <div align="center" style="font-size: 1.2em; color: #4A90E2; font-family: Arial, sans-serif; margin-bottom: 20px; background-color: #f0f0f0; padding: 10px; border-radius: 8px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);">
-I am a 17-year-old developer studying in Norway.
+404-ERROR
 </div>
 
 ## Languages
